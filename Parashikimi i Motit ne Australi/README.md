@@ -92,3 +92,5 @@ Dhe ne fund eshte shfaqur nje raport i klasifikimit permbledhes duke marr keto r
 3. K-Nearest Neighbour Score      0.844204
 4. Naive Bayes Score              0.785271
 5. Decision Tree Score            0.796969
+
+![Histograms of data columns](images/img.png)
